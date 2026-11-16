@@ -1,7 +1,5 @@
 # Compte rendu TP 2 : Compilation du noyau Linux dans une VM avec un disque de build séparé
 
-Binôme : [à compléter]
-
 Ce TP s'est déroulé en deux séances. L'objectif est de compiler un noyau Linux 6.17 dans une VM Debian 13 sous VirtualBox, en mettant tout ce qui concerne la compilation sur un deuxième disque monté sur `/build`, pour ne pas remplir le disque système. La première séance a porté sur la préparation de la VM (étapes 1 à 5 du sujet) et la deuxième sur la configuration, la compilation, l'installation du noyau et la vérification au redémarrage (étapes 5 à 8).
 
 ## 1. Préparer la machine virtuelle
